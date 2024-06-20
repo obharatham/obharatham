@@ -1,6 +1,4 @@
-- Hi, I’m Omkar.
-- I’m interested in the USA Computing Olympiad.
-- I’m currently learning C++
+
 
 
 <!---
